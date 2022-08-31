@@ -19,14 +19,15 @@ programa
 	
 	funcao inicio()
 	{
-		inteiro formula
-		real area, latas, galoes, precoGalao, PrecoLata, PrecoMisto
+		real area, latas, galoes, precoGalao, precoLatas, PrecoMisto, litros
 		escreva("Digite o tamanho em metros quadrados da área a ser pintada: ")
 		leia(area)
 		
-		precoGalao = area / formula
-		
-		
+		litros = area / 6
+		precoGalao = (litros / 18) * 80
+		precoLatas = (litros / 3.6) * 3.6
+		escreva("\n Preço em galões: R$: " + precoGalao)
+		escreva("\n Preço em latas: R$: " + precoLatas)
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -34,7 +35,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 894; 
+ * @POSICAO-CURSOR = 872; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
