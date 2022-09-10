@@ -2,34 +2,38 @@ programa
 {
 	inclua biblioteca Matematica
 	
-	funcao calculadora(inteiro quantidade, real preco){
+	funcao calcularValorTotal(real preco){
+		inteiro quantidade
+		escreva("digite a quantidade: ")
+		leia(quantidade)
 		real total = Matematica.arredondar(quantidade * preco, 2)
-		 escreva("Total: ", total)
-		 retorne
+		escreva("Total: ", total)
+		retorne
 	} 
 	
 	funcao inicio()
 	{
-		inteiro codigo, quantidade
+		inteiro codigo
 		escreva("digite o código do item: ")
 		leia(codigo)
-		escreva("digite a quantidade: ")
-		leia(quantidade)
 		escolha(codigo){
 			caso 1:
-				calculadora(quantidade, 4)
+				calcularValorTotal(4)
 			pare
 			caso 2:
-				calculadora(quantidade, 4.5)
+				calcularValorTotal(4.5)
 			pare
 			caso 3:
-				calculadora(quantidade, 5)
+				calcularValorTotal(5)
 			pare
 			caso 4:
-				calculadora(quantidade, 2)
+				calcularValorTotal(2)
+			pare
+			caso 5:
+				calcularValorTotal(1.5)
 			pare
 			caso contrario:
-				calculadora(quantidade, 1.5)
+				escreva("Este produto não foi encontrado no nosso banco de dados!")
 		}
 	}
 }
@@ -38,7 +42,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 636; 
+ * @POSICAO-CURSOR = 500; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

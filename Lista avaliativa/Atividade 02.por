@@ -28,8 +28,11 @@ programa
 		senao se (salario > 1200 e salario <= 2000){
 			 reajuste(salario, 7)
 		}
-		senao{
+		senao se (salario > 2000){
 			reajuste(salario, 4)
+		}
+		senao{
+			escreva("Digite um valor positivo!")
 		}
 	}
 }
@@ -38,7 +41,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 753; 
+ * @POSICAO-CURSOR = 836; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
