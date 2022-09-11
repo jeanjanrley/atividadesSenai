@@ -8,7 +8,6 @@ programa
 		leia(quantidade)
 		real total = Matematica.arredondar(quantidade * preco, 2)
 		escreva("Total: ", total)
-		retorne
 	} 
 	
 	funcao inicio()
@@ -42,7 +41,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 500; 
+ * @POSICAO-CURSOR = 249; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
