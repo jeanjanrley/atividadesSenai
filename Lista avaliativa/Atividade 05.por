@@ -3,8 +3,8 @@ programa
 	
 	funcao inicio()
 	{
-		inteiro vezes = 0, totalPositivos = 0, totalNegativos = 0, totalPares = 0, totalImpares = 0, valor
-		faca {
+		inteiro totalPositivos = 0, totalNegativos = 0, totalPares = 0, totalImpares = 0, valor
+		para (inteiro vezes = 0; vezes < 5; vezes++) {
 			escreva("Digite um valor: ")
 			leia(valor)
 			se(valor > 0){
@@ -19,9 +19,7 @@ programa
 			senao {
 				totalImpares += 1
 			}
-			vezes += 1
 		}
-		enquanto (vezes < 5)
 		escreva("\n Total de valores positivos: ", totalPositivos)
 		escreva("\n Total de valores negativos: ", totalNegativos)
 		escreva("\n Total de valores pares: ", totalPares)
@@ -33,7 +31,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 593; 
+ * @POSICAO-CURSOR = 391; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

@@ -3,20 +3,16 @@ programa
 	
 	funcao inicio()
 	{
-		inteiro vezes = 0, totalPositivos = 0
+		inteiro totalPositivos = 0
 		real valor
 		
-		faca {
+		para (inteiro vezes = 0; vezes < 6; vezes++) {
 			escreva("Digite um valor: ")
 			leia(valor)
 			
 			se(valor > 0)
 				totalPositivos += 1
-
-			vezes += 1
 		}
-		
-		enquanto (vezes < 6)
 		escreva("Total de valores positivos: ", totalPositivos)
 	}
 }
@@ -25,7 +21,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 165; 
+ * @POSICAO-CURSOR = 77; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
