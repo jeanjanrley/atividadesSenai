@@ -1,22 +1,27 @@
 programa
-{
+{	
+	inclua biblioteca Matematica
 	
 	funcao inicio()
 	{
-		inteiro a, b, c, d
-		escreva("Digite o valor de A: ")
-		leia(a)
-		escreva("Digite o valor de B: ")
-		leia(b)
-		escreva("Digite o valor de C: ")
-		leia(c)
-		escreva("Digite o valor de D: ")
-		leia(d)
-		se(b > c e d > a e c + d > a + b){
-			escreva("Valores aceitos")
+		real salario, resultado
+		escreva("Digite o seu salário R$: ")
+		leia(salario)
+		se (salario < 0)
+			escreva("Digite um valor válido!")
+		senao se (salario >= 0 e salario <= 2000)
+			escreva("Este valor é isento de pagamento!")
+		senao se (salario > 2000 e salario <= 3000) {
+			resultado = Matematica.arredondar((salario - 2000) * 0.08, 2)
+			escreva("R$: ", resultado)
 		}
-		senao{
-			escreva("Valores não aceitos")	
+		senao se (salario > 3000 e salario <= 4500) {
+			resultado = Matematica.arredondar(80 + (salario - 3000) * 0.18,2)
+			escreva("R$: ", resultado)
+		}
+		senao {
+			 resultado = Matematica.arredondar(80 + 270 + (salario - 4500) * 0.28, 2)
+			escreva("R$: ", resultado)	
 		}
 	}
 }
@@ -25,7 +30,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 222; 
+ * @POSICAO-CURSOR = 676; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
