@@ -1,0 +1,962 @@
+[
+    {
+     "ID": 1,
+     "Store No": 1,
+     "Sales Region": "South",
+     "Item No": 2005,
+     "Item Description": "17\" Monitor",
+     "Unit Price": 229,
+     "Units Sold": 28,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 2,
+     "Store No": 1,
+     "Sales Region": "South",
+     "Item No": 2005,
+     "Item Description": "17\" Monitor",
+     "Unit Price": 229,
+     "Units Sold": 30,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 3,
+     "Store No": 1,
+     "Sales Region": "South",
+     "Item No": 2005,
+     "Item Description": "17\" Monitor",
+     "Unit Price": 229,
+     "Units Sold": 9,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 4,
+     "Store No": 1,
+     "Sales Region": "South",
+     "Item No": 3006,
+     "Item Description": "101 Keyboard",
+     "Unit Price": 19.95,
+     "Units Sold": 30,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 5,
+     "Store No": 1,
+     "Sales Region": "South",
+     "Item No": 3006,
+     "Item Description": "101 Keyboard",
+     "Unit Price": 19.95,
+     "Units Sold": 35,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 6,
+     "Store No": 1,
+     "Sales Region": "South",
+     "Item No": 3006,
+     "Item Description": "101 Keyboard",
+     "Unit Price": 19.95,
+     "Units Sold": 39,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 7,
+     "Store No": 1,
+     "Sales Region": "South",
+     "Item No": 6050,
+     "Item Description": "PC Mouse",
+     "Unit Price": 8.95,
+     "Units Sold": 28,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 8,
+     "Store No": 1,
+     "Sales Region": "South",
+     "Item No": 6050,
+     "Item Description": "PC Mouse",
+     "Unit Price": 8.95,
+     "Units Sold": 3,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 9,
+     "Store No": 1,
+     "Sales Region": "South",
+     "Item No": 6050,
+     "Item Description": "PC Mouse",
+     "Unit Price": 8.95,
+     "Units Sold": 38,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 10,
+     "Store No": 1,
+     "Sales Region": "South",
+     "Item No": 8500,
+     "Item Description": "Desktop CPU",
+     "Unit Price": 849.95,
+     "Units Sold": 25,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 11,
+     "Store No": 1,
+     "Sales Region": "South",
+     "Item No": 8500,
+     "Item Description": "Desktop CPU",
+     "Unit Price": 849.95,
+     "Units Sold": 27,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 12,
+     "Store No": 1,
+     "Sales Region": "South",
+     "Item No": 8500,
+     "Item Description": "Desktop CPU",
+     "Unit Price": 849.95,
+     "Units Sold": 33,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 13,
+     "Store No": 2,
+     "Sales Region": "South",
+     "Item No": 2005,
+     "Item Description": "17\" Monitor",
+     "Unit Price": 229,
+     "Units Sold": 8,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 14,
+     "Store No": 2,
+     "Sales Region": "South",
+     "Item No": 2005,
+     "Item Description": "17\" Monitor",
+     "Unit Price": 229,
+     "Units Sold": 8,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 15,
+     "Store No": 2,
+     "Sales Region": "South",
+     "Item No": 2005,
+     "Item Description": "17\" Monitor",
+     "Unit Price": 229,
+     "Units Sold": 10,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 16,
+     "Store No": 2,
+     "Sales Region": "South",
+     "Item No": 3006,
+     "Item Description": "101 Keyboard",
+     "Unit Price": 19.95,
+     "Units Sold": 8,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 17,
+     "Store No": 2,
+     "Sales Region": "South",
+     "Item No": 3006,
+     "Item Description": "101 Keyboard",
+     "Unit Price": 19.95,
+     "Units Sold": 8,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 18,
+     "Store No": 2,
+     "Sales Region": "South",
+     "Item No": 3006,
+     "Item Description": "101 Keyboard",
+     "Unit Price": 19.95,
+     "Units Sold": 8,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 19,
+     "Store No": 2,
+     "Sales Region": "South",
+     "Item No": 6050,
+     "Item Description": "PC Mouse",
+     "Unit Price": 8.95,
+     "Units Sold": 9,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 20,
+     "Store No": 2,
+     "Sales Region": "South",
+     "Item No": 6050,
+     "Item Description": "PC Mouse",
+     "Unit Price": 8.95,
+     "Units Sold": 9,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 21,
+     "Store No": 2,
+     "Sales Region": "South",
+     "Item No": 6050,
+     "Item Description": "PC Mouse",
+     "Unit Price": 8.95,
+     "Units Sold": 8,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 22,
+     "Store No": 2,
+     "Sales Region": "South",
+     "Item No": 8500,
+     "Item Description": "Desktop CPU",
+     "Unit Price": 849.95,
+     "Units Sold": 18,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 23,
+     "Store No": 2,
+     "Sales Region": "South",
+     "Item No": 8500,
+     "Item Description": "Desktop CPU",
+     "Unit Price": 849.95,
+     "Units Sold": 18,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 24,
+     "Store No": 2,
+     "Sales Region": "South",
+     "Item No": 8500,
+     "Item Description": "Desktop CPU",
+     "Unit Price": 849.95,
+     "Units Sold": 20,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 25,
+     "Store No": 3,
+     "Sales Region": "South",
+     "Item No": 2005,
+     "Item Description": "17\" Monitor",
+     "Unit Price": 229,
+     "Units Sold": 38,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 26,
+     "Store No": 3,
+     "Sales Region": "South",
+     "Item No": 2005,
+     "Item Description": "17\" Monitor",
+     "Unit Price": 229,
+     "Units Sold": 30,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 27,
+     "Store No": 3,
+     "Sales Region": "South",
+     "Item No": 2005,
+     "Item Description": "17\" Monitor",
+     "Unit Price": 229,
+     "Units Sold": 3,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 28,
+     "Store No": 3,
+     "Sales Region": "South",
+     "Item No": 3006,
+     "Item Description": "101 Keyboard",
+     "Unit Price": 19.95,
+     "Units Sold": 30,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 29,
+     "Store No": 3,
+     "Sales Region": "South",
+     "Item No": 3006,
+     "Item Description": "101 Keyboard",
+     "Unit Price": 19.95,
+     "Units Sold": 32,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 30,
+     "Store No": 3,
+     "Sales Region": "South",
+     "Item No": 3006,
+     "Item Description": "101 Keyboard",
+     "Unit Price": 19.95,
+     "Units Sold": 33,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 31,
+     "Store No": 3,
+     "Sales Region": "South",
+     "Item No": 6050,
+     "Item Description": "PC Mouse",
+     "Unit Price": 8.95,
+     "Units Sold": 25,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 32,
+     "Store No": 3,
+     "Sales Region": "South",
+     "Item No": 6050,
+     "Item Description": "PC Mouse",
+     "Unit Price": 8.95,
+     "Units Sold": 5,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 33,
+     "Store No": 3,
+     "Sales Region": "South",
+     "Item No": 6050,
+     "Item Description": "PC Mouse",
+     "Unit Price": 8.95,
+     "Units Sold": 26,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 34,
+     "Store No": 3,
+     "Sales Region": "South",
+     "Item No": 8500,
+     "Item Description": "Desktop CPU",
+     "Unit Price": 849.95,
+     "Units Sold": 28,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 35,
+     "Store No": 3,
+     "Sales Region": "South",
+     "Item No": 8500,
+     "Item Description": "Desktop CPU",
+     "Unit Price": 849.95,
+     "Units Sold": 27,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 36,
+     "Store No": 3,
+     "Sales Region": "South",
+     "Item No": 8500,
+     "Item Description": "Desktop CPU",
+     "Unit Price": 849.95,
+     "Units Sold": 29,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 37,
+     "Store No": 4,
+     "Sales Region": "North",
+     "Item No": 2005,
+     "Item Description": "17\" Monitor",
+     "Unit Price": 229,
+     "Units Sold": 18,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 38,
+     "Store No": 4,
+     "Sales Region": "North",
+     "Item No": 2005,
+     "Item Description": "17\" Monitor",
+     "Unit Price": 229,
+     "Units Sold": 20,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 39,
+     "Store No": 4,
+     "Sales Region": "North",
+     "Item No": 2005,
+     "Item Description": "17\" Monitor",
+     "Unit Price": 229,
+     "Units Sold": 4,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 40,
+     "Store No": 4,
+     "Sales Region": "North",
+     "Item No": 3006,
+     "Item Description": "101 Keyboard",
+     "Unit Price": 19.95,
+     "Units Sold": 12,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 41,
+     "Store No": 4,
+     "Sales Region": "North",
+     "Item No": 3006,
+     "Item Description": "101 Keyboard",
+     "Unit Price": 19.95,
+     "Units Sold": 24,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 42,
+     "Store No": 4,
+     "Sales Region": "North",
+     "Item No": 3006,
+     "Item Description": "101 Keyboard",
+     "Unit Price": 19.95,
+     "Units Sold": 36,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 43,
+     "Store No": 4,
+     "Sales Region": "North",
+     "Item No": 6050,
+     "Item Description": "PC Mouse",
+     "Unit Price": 8.95,
+     "Units Sold": 29,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 44,
+     "Store No": 4,
+     "Sales Region": "North",
+     "Item No": 6050,
+     "Item Description": "PC Mouse",
+     "Unit Price": 8.95,
+     "Units Sold": 11,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 45,
+     "Store No": 4,
+     "Sales Region": "North",
+     "Item No": 6050,
+     "Item Description": "PC Mouse",
+     "Unit Price": 8.95,
+     "Units Sold": 38,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 46,
+     "Store No": 4,
+     "Sales Region": "North",
+     "Item No": 8500,
+     "Item Description": "Desktop CPU",
+     "Unit Price": 849.95,
+     "Units Sold": 21,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 47,
+     "Store No": 4,
+     "Sales Region": "North",
+     "Item No": 8500,
+     "Item Description": "Desktop CPU",
+     "Unit Price": 849.95,
+     "Units Sold": 24,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 48,
+     "Store No": 4,
+     "Sales Region": "North",
+     "Item No": 8500,
+     "Item Description": "Desktop CPU",
+     "Unit Price": 849.95,
+     "Units Sold": 30,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 49,
+     "Store No": 5,
+     "Sales Region": "North",
+     "Item No": 2005,
+     "Item Description": "17\" Monitor",
+     "Unit Price": 229,
+     "Units Sold": 27,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 50,
+     "Store No": 5,
+     "Sales Region": "North",
+     "Item No": 2005,
+     "Item Description": "17\" Monitor",
+     "Unit Price": 229,
+     "Units Sold": 25,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 51,
+     "Store No": 5,
+     "Sales Region": "North",
+     "Item No": 2005,
+     "Item Description": "17\" Monitor",
+     "Unit Price": 229,
+     "Units Sold": 23,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 52,
+     "Store No": 5,
+     "Sales Region": "North",
+     "Item No": 3006,
+     "Item Description": "101 Keyboard",
+     "Unit Price": 19.95,
+     "Units Sold": 80,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 53,
+     "Store No": 5,
+     "Sales Region": "North",
+     "Item No": 3006,
+     "Item Description": "101 Keyboard",
+     "Unit Price": 19.95,
+     "Units Sold": 82,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 54,
+     "Store No": 5,
+     "Sales Region": "North",
+     "Item No": 3006,
+     "Item Description": "101 Keyboard",
+     "Unit Price": 19.95,
+     "Units Sold": 75,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 55,
+     "Store No": 5,
+     "Sales Region": "North",
+     "Item No": 6050,
+     "Item Description": "PC Mouse",
+     "Unit Price": 8.95,
+     "Units Sold": 65,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 56,
+     "Store No": 5,
+     "Sales Region": "North",
+     "Item No": 6050,
+     "Item Description": "PC Mouse",
+     "Unit Price": 8.95,
+     "Units Sold": 24,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 57,
+     "Store No": 5,
+     "Sales Region": "North",
+     "Item No": 6050,
+     "Item Description": "PC Mouse",
+     "Unit Price": 8.95,
+     "Units Sold": 55,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 58,
+     "Store No": 5,
+     "Sales Region": "North",
+     "Item No": 8500,
+     "Item Description": "Desktop CPU",
+     "Unit Price": 849.95,
+     "Units Sold": 55,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 59,
+     "Store No": 5,
+     "Sales Region": "North",
+     "Item No": 8500,
+     "Item Description": "Desktop CPU",
+     "Unit Price": 849.95,
+     "Units Sold": 57,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 60,
+     "Store No": 5,
+     "Sales Region": "North",
+     "Item No": 8500,
+     "Item Description": "Desktop CPU",
+     "Unit Price": 849.95,
+     "Units Sold": 47,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 61,
+     "Store No": 6,
+     "Sales Region": "East",
+     "Item No": 2005,
+     "Item Description": "17\" Monitor",
+     "Unit Price": 229,
+     "Units Sold": 24,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 62,
+     "Store No": 6,
+     "Sales Region": "East",
+     "Item No": 2005,
+     "Item Description": "17\" Monitor",
+     "Unit Price": 229,
+     "Units Sold": 85,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 63,
+     "Store No": 6,
+     "Sales Region": "East",
+     "Item No": 2005,
+     "Item Description": "17\" Monitor",
+     "Unit Price": 229,
+     "Units Sold": 56,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 64,
+     "Store No": 6,
+     "Sales Region": "East",
+     "Item No": 3006,
+     "Item Description": "101 Keyboard",
+     "Unit Price": 19.95,
+     "Units Sold": 52,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 65,
+     "Store No": 6,
+     "Sales Region": "East",
+     "Item No": 3006,
+     "Item Description": "101 Keyboard",
+     "Unit Price": 19.95,
+     "Units Sold": 58,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 66,
+     "Store No": 6,
+     "Sales Region": "East",
+     "Item No": 3006,
+     "Item Description": "101 Keyboard",
+     "Unit Price": 19.95,
+     "Units Sold": 69,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 67,
+     "Store No": 6,
+     "Sales Region": "East",
+     "Item No": 6050,
+     "Item Description": "PC Mouse",
+     "Unit Price": 8.95,
+     "Units Sold": 35,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 68,
+     "Store No": 6,
+     "Sales Region": "East",
+     "Item No": 6050,
+     "Item Description": "PC Mouse",
+     "Unit Price": 8.95,
+     "Units Sold": 39,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 69,
+     "Store No": 6,
+     "Sales Region": "East",
+     "Item No": 6050,
+     "Item Description": "PC Mouse",
+     "Unit Price": 8.95,
+     "Units Sold": 44,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 70,
+     "Store No": 6,
+     "Sales Region": "East",
+     "Item No": 8500,
+     "Item Description": "Desktop CPU",
+     "Unit Price": 849.95,
+     "Units Sold": 78,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 71,
+     "Store No": 6,
+     "Sales Region": "East",
+     "Item No": 8500,
+     "Item Description": "Desktop CPU",
+     "Unit Price": 849.95,
+     "Units Sold": 88,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 72,
+     "Store No": 6,
+     "Sales Region": "East",
+     "Item No": 8500,
+     "Item Description": "Desktop CPU",
+     "Unit Price": 849.95,
+     "Units Sold": 99,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 73,
+     "Store No": 7,
+     "Sales Region": "East",
+     "Item No": 2005,
+     "Item Description": "17\" Monitor",
+     "Unit Price": 229,
+     "Units Sold": 34,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 74,
+     "Store No": 7,
+     "Sales Region": "East",
+     "Item No": 2005,
+     "Item Description": "17\" Monitor",
+     "Unit Price": 229,
+     "Units Sold": 36,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 75,
+     "Store No": 7,
+     "Sales Region": "East",
+     "Item No": 2005,
+     "Item Description": "17\" Monitor",
+     "Unit Price": 229,
+     "Units Sold": 35,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 76,
+     "Store No": 7,
+     "Sales Region": "East",
+     "Item No": 3006,
+     "Item Description": "101 Keyboard",
+     "Unit Price": 19.95,
+     "Units Sold": 49,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 77,
+     "Store No": 7,
+     "Sales Region": "East",
+     "Item No": 3006,
+     "Item Description": "101 Keyboard",
+     "Unit Price": 19.95,
+     "Units Sold": 47,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 78,
+     "Store No": 7,
+     "Sales Region": "East",
+     "Item No": 3006,
+     "Item Description": "101 Keyboard",
+     "Unit Price": 19.95,
+     "Units Sold": 48,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 79,
+     "Store No": 7,
+     "Sales Region": "East",
+     "Item No": 6050,
+     "Item Description": "PC Mouse",
+     "Unit Price": 8.95,
+     "Units Sold": 45,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 80,
+     "Store No": 7,
+     "Sales Region": "East",
+     "Item No": 6050,
+     "Item Description": "PC Mouse",
+     "Unit Price": 8.95,
+     "Units Sold": 42,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 81,
+     "Store No": 7,
+     "Sales Region": "East",
+     "Item No": 6050,
+     "Item Description": "PC Mouse",
+     "Unit Price": 8.95,
+     "Units Sold": 45,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 82,
+     "Store No": 7,
+     "Sales Region": "East",
+     "Item No": 8500,
+     "Item Description": "Desktop CPU",
+     "Unit Price": 849.95,
+     "Units Sold": 55,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 83,
+     "Store No": 7,
+     "Sales Region": "East",
+     "Item No": 8500,
+     "Item Description": "Desktop CPU",
+     "Unit Price": 849.95,
+     "Units Sold": 57,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 84,
+     "Store No": 7,
+     "Sales Region": "East",
+     "Item No": 8500,
+     "Item Description": "Desktop CPU",
+     "Unit Price": 849.95,
+     "Units Sold": 55,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 85,
+     "Store No": 8,
+     "Sales Region": "East",
+     "Item No": 2005,
+     "Item Description": "17\" Monitor",
+     "Unit Price": 229,
+     "Units Sold": 18,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 86,
+     "Store No": 8,
+     "Sales Region": "East",
+     "Item No": 2005,
+     "Item Description": "17\" Monitor",
+     "Unit Price": 229,
+     "Units Sold": 17,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 87,
+     "Store No": 8,
+     "Sales Region": "East",
+     "Item No": 2005,
+     "Item Description": "17\" Monitor",
+     "Unit Price": 229,
+     "Units Sold": 23,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 88,
+     "Store No": 8,
+     "Sales Region": "East",
+     "Item No": 3006,
+     "Item Description": "101 Keyboard",
+     "Unit Price": 19.95,
+     "Units Sold": 22,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 89,
+     "Store No": 8,
+     "Sales Region": "East",
+     "Item No": 3006,
+     "Item Description": "101 Keyboard",
+     "Unit Price": 19.95,
+     "Units Sold": 18,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 90,
+     "Store No": 8,
+     "Sales Region": "East",
+     "Item No": 3006,
+     "Item Description": "101 Keyboard",
+     "Unit Price": 19.95,
+     "Units Sold": 22,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 91,
+     "Store No": 8,
+     "Sales Region": "East",
+     "Item No": 6050,
+     "Item Description": "PC Mouse",
+     "Unit Price": 8.95,
+     "Units Sold": 14,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 92,
+     "Store No": 8,
+     "Sales Region": "East",
+     "Item No": 6050,
+     "Item Description": "PC Mouse",
+     "Unit Price": 8.95,
+     "Units Sold": 16,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 93,
+     "Store No": 8,
+     "Sales Region": "East",
+     "Item No": 6050,
+     "Item Description": "PC Mouse",
+     "Unit Price": 8.95,
+     "Units Sold": 17,
+     "Week Ending": "29-Dec-01"
+    },
+    {
+     "ID": 94,
+     "Store No": 8,
+     "Sales Region": "East",
+     "Item No": 8500,
+     "Item Description": "Desktop CPU",
+     "Unit Price": 849.95,
+     "Units Sold": 32,
+     "Week Ending": "27-Oct-01"
+    },
+    {
+     "ID": 95,
+     "Store No": 8,
+     "Sales Region": "East",
+     "Item No": 8500,
+     "Item Description": "Desktop CPU",
+     "Unit Price": 849.95,
+     "Units Sold": 28,
+     "Week Ending": "24-Nov-01"
+    },
+    {
+     "ID": 96,
+     "Store No": 8,
+     "Sales Region": "East",
+     "Item No": 8500,
+     "Item Description": "Desktop CPU",
+     "Unit Price": 849.95,
+     "Units Sold": 30,
+     "Week Ending": "29-Dec-01"
+    }
+   ]
