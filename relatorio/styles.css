@@ -18,7 +18,7 @@ body {
     background: #0c122d;
 }
 
-main {
+#container {
     display: flex;
     flex-direction: column;
     width: 90%;
@@ -45,4 +45,9 @@ h1 {
     font-size: 2rem;
     color: #45d3c2;
     font-weight: 500;
+}
+
+.chart-container {
+    width: 500px;
+    height: 500px;
 }
