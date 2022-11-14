@@ -2,36 +2,95 @@
 <html lang="pt-br">
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="stylesheet" href="styles.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
-    <script src="https://cdn.anychart.com/releases/8.11.0/js/anychart-base.min.js" type="text/javascript"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="stylesheet" href="styles.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+	<script src="https://cdn.anychart.com/releases/8.11.0/js/anychart-base.min.js" type="text/javascript"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
 </head>
 
 <body>
-    <div id="container">
-        <header>
-            <h1>Indicadores Mensais</h1>
-        </header>
-        <main>
-            <div class="chart-container">
-                <canvas id="myChart"></canvas>
-            </div>
-        </main>
-    </div>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script src="config.js"></script>
-    <script>
-        const myChart = new Chart(
-            document.getElementById('myChart'),
-            config
-        );
-    </script>
+	<div id="container">
+		<header>
+			<h1>Indicadores Mensais</h1>
+		</header>
+		<main>
+			<div class="content-area">
+				<h2>Desempenho por região</h2>
+				<p>
+					As regiões estão organizadas por lucro do maior para o menor e entre parenteses está a quantidade de
+					intes vendidos.
+				</p>
+				<div class="container">
+					<div class="content-item big">
+						<h3>Este</h3>
+						<p>R$ 307.556,50 (1530)</p>
+					</div>
+					<div class="content-item big">
+						<h3>Norte</h3>
+						<p>R$ 114.497,49 (882)</p>
+					</div>
+					<div class="content-item big">
+						<h3>Sul</h3>
+						<p>R$ 110.259,67 (763)</p>
+					</div>
+				</div>
+			</div>
+			<div class="content-area">
+				<h2>Desempenho por item</h2>
+				<p>
+					Os itens estão organizadas por lucro do maior para o menor e entre parenteses está a quantidade de
+					intes vendidos.
+				</p>
+				<div class="container">
+					<div class="content-item">
+						<h3>Desktop CPU</h3>
+						<p>R$ 448.289,13 (981)</p>
+					</div>
+					<div class="content-item">
+						<h3>17" Monitor</h3>
+						<p>R$ 71.386,17 (609)</p>
+					</div>
+					<div class="content-item">
+						<h3>101 Keyboard</h3>
+						<p>R$ 9.764,53 (917)</p>
+					</div>
+					<div class="content-item">
+						<h3>PC Mouse</h3>
+						<p>R$ 2.873,85 (670)</p>
+					</div>
+				</div>
+			</div>
+			<div class="content-area" style="flex-direction: row; gap: 16px">
+				<div class="content">
+					<h2>Desempenho de produto X Região</h2>
+					<p>Você pode clicar nos nas caixas abaixo para filtrar itens</p>
+					<div class="chart-container">
+						<canvas id="myChart"></canvas>
+					</div>
+				</div>
+				<div class="content">
+					<h2>Desempenho de produto X Loja</h2>
+					<p>Você pode clicar nos nas caixas abaixo para filtrar itens</p>
+					<div class="chart-container">
+						<canvas id="myChart"></canvas>
+					</div>
+				</div>
+			</div>
+		</main>
+	</div>
+	<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+	<script src="config.js"></script>
+	<script>
+		const myChart = new Chart(
+			document.getElementById('myChart'),
+			config
+		);
+	</script>
 </body>
 
 </html>
